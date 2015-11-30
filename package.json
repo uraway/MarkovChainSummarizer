@@ -1,0 +1,16 @@
+{
+  "name": "markov_chain_summarizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markov.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node markov.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
